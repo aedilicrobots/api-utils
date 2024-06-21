@@ -1,4 +1,5 @@
 export { default as APIError } from "./APIError";
+export * from "./APIError";
 export { default as AuthenticationError } from "./AuthenticationError";
 export { default as ForbiddenError } from "./ForbiddenError";
 export { default as InputError } from "./InputError";
